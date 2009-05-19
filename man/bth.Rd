@@ -25,7 +25,7 @@ case of a multivariate and stratified population. The input of the procedure con
 two dataframe, respectively, S and T. \cr S is composed by a minimum of 6 columns (ncol(S) > = 6),
 suppose ncol(S) = k. The first column shows the strata labels.
 The k-th column shows the minimum sample rate for each strata, such 
-as 0.04 if the sample will consist of at least 4% in each strata. Similarly, the (k-1)-th
+as 0.04 if the sample will consist of at least 4\% in each strata. Similarly, the (k-1)-th
 column contains the absolute minimum sample size (for example the value 3 if the each strata 
 has to be composed at least of 3 sample units). The (k-2)-th column shows the unit cost per 
 interview(in each strata). Generally this value is equal to 1 to indicate the same cost 
